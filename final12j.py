@@ -43,7 +43,7 @@ def send_email(subject, message, image):
     smtp_server = 'smtp.gmail.com'
     smtp_port = 587
     smtp_username = 'gdharanids@gmail.com'
-    smtp_password = 'brluimoihhqbvsrd'
+    smtp_password = 'bgfgbvtfgnuuuyuy'
     recipient_email = 'dharani.21iamos121@iadc.ac.in'
 
     # Create a multipart message container
